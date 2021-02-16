@@ -1,5 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 localripo de henkou
-Github de henkou 2回目
-
+conflict-remote上で更新(Conflict発生)
