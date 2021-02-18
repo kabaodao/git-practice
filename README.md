@@ -3,3 +3,4 @@
 localripo de henkou
 Update readme on rebase-practice (for rebase conflict).
 For rebase pull.
+stash practice.
